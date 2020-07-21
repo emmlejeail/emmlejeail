@@ -7,6 +7,8 @@ I’m a sofware development engineer specialized in machine learning and data sc
 
 <p> <img src="https://img.shields.io/badge/Scala-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-brightgreen"/> <img src="https://img.shields.io/badge/Python-%E2%98%86%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red"/> <img src="https://img.shields.io/badge/R-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blueviolet" /> <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%86%E2%98%86%E2%98%86-yellowgreen" /> <img src="https://img.shields.io/badge/Spark-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue" /> <img src="https://img.shields.io/badge/Hadoop-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-yellow" /> <img src="https://img.shields.io/badge/Openshift-%E2%98%86%E2%98%86%E2%98%86-orange" /> </p>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=emmlejeail&show_icons=true&hide_border=true" alt"Profile Stats"/></p>
+
 💬 Feel free to reach out to me if you have any questions or opportunities ...
 
 <!--
