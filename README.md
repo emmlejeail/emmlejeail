@@ -1,4 +1,13 @@
+# 🔭 Machine Learning & Data Science Software Engineer
+
 ### Hi there 👋
+I’m a sofware development engineer specialized in machine learning and data science with 1+ year professional experience. Expertise in Scala, Python, Spark and R. Notions of NodeJS, Angular, C++ and Java are also worth mentionning.
+
+## Skills
+
+<p> <img src="https://img.shields.io/badge/Scala-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-brightgreen"/> <img src="https://img.shields.io/badge/Python-%E2%98%86%E2%98%86%E2%98%86%E2%98%86%E2%98%86-red"/> <img src="https://img.shields.io/badge/R-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blueviolet" /> <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%86%E2%98%86%E2%98%86-yellowgreen" /> <img src="https://img.shields.io/badge/Spark-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue" /> <img src="https://img.shields.io/badge/Hadoop-%E2%98%86%E2%98%86%E2%98%86%E2%98%86-yellow" /> <img src="https://img.shields.io/badge/Openshift-%E2%98%86%E2%98%86%E2%98%86-orange" /> </p>
+
+💬 Feel free to reach out to me if you have any questions or opportunities ...
 
 <!--
 **emmlejeail/emmlejeail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
