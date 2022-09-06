@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/emmanuelle-lejeail/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>LinkedIn</a>
 
 ### Hi there 👋
-I’m a sofware development engineer specialized in machine learning and data science with 1+ year professional experience. Expertise in Scala, Python, Spark and R. Notions of NodeJS, Angular, C++ and Java are also worth mentionning.
+I’m a sofware development engineer specialized in machine learning and data science with 3+ year professional experience. Expertise in Scala, Python, Spark and R. Notions of NodeJS, Angular, C++ and Java are also worth mentionning.
 
 ## Skills
 
