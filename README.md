@@ -11,7 +11,7 @@ I’m a sofware development engineer specialized in machine learning and data sc
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=emmlejeail&show_icons=true&hide_border=true" alt"Profile Stats"/></p>
 
-💬 Feel free to reach out to me if you have any questions or opportunities ...
+💬 Feel free to reach out to me if you have any questions ...
 
 <!--
 **emmlejeail/emmlejeail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
